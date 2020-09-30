@@ -27,7 +27,7 @@ namespace WindowsFormsApp2
 					break;
 			}
 		}
-		//další varianta je nemít vlastnost Vysledek a místo metody, která nevrací nic (void) mít metodu, která přímo vrací double - nezapomeň pak ale v mainu načíst výsledek volání metody do proměnné (více viz kalkulačka od Iva)
+		//další varianta je nemít vlastnost Vysledek a místo metody, která nevrací nic (void) mít metodu, která přímo vrací double - nezapomeň pak ale v mainu načíst výsledek volání metody do proměnné
 	}
 	
 
